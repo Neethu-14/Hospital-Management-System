@@ -45,7 +45,7 @@ HospitalManagementSystem
 
 ##  How to Run the Project
 Clone the repository:
-git clone https://github.com/Neethu-14/HospitalManagementSystem.git
+git clone https://github.com/Neethu-14/Hospital-Management-System.git
 Open the project in Eclipse
 Add MySQL Connector/J (JDBC Driver) to the project
 Create the database and table in MySQL
