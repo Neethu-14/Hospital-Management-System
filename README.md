@@ -1,13 +1,13 @@
-## 🏥 Hospital Management System (GUI)
+##  Hospital Management System (GUI)
 
-## 📌 Project Overview
+##  Project Overview
 
 The Hospital Management System is a GUI-based, menu-driven application developed using Java Swing, JDBC, and MySQL.
 It enables users to efficiently manage hospital appointments by providing features to book, view, search, and cancel appointments through an interactive interface.
 
 ---
 
-## ✨ Features
+##  Features
 Book new appointments
 View all appointments in table format (JTable)
 Search appointments by doctor name
@@ -17,7 +17,7 @@ Data stored persistently using MySQL
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 Programming Language: Java (Core Java)
 GUI Framework: Swing
 Database: MySQL
@@ -27,7 +27,7 @@ Version Control: Git, GitHub
 
 ---
 
-## 🧱 Project Architecture
+##  Project Architecture
 
 The project follows a layered architecture for better structure and maintainability.
 ```
@@ -43,7 +43,7 @@ HospitalManagementSystem
 
 ---
 
-## ▶️ How to Run the Project
+##  How to Run the Project
 Clone the repository:
 git clone https://github.com/Neethu-14/HospitalAppointmentSystem.git
 Open the project in Eclipse
@@ -54,7 +54,7 @@ Run HospitalGUI.java
 
 ---
 
-## 🚀 Future Enhancements
+##  Future Enhancements
 Add login system (Admin/Patient)
 Implement doctor availability scheduling
 Add update/edit appointment feature
