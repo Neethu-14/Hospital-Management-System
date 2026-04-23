@@ -34,10 +34,6 @@ The project follows a layered architecture for better structure and maintainabil
 HospitalManagementSystem
 │
 ├── DBConnection.java
-├── AppointmentDTO.java
-├── AppointmentDAO.java
-├── AppointmentDAOImpl.java
-├── AppointmentService.java
 ├── HospitalGUI.java
 ├── BookAppointment.java
 ├── ViewAppointments.java
