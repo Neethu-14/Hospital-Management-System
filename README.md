@@ -8,12 +8,12 @@ It enables users to efficiently manage hospital appointments by providing featur
 ---
 
 ##  Features
-Book new appointments
-View all appointments in table format (JTable)
-Search appointments by doctor name
-Cancel appointments
-User-friendly GUI using Java Swing
-Data stored persistently using MySQL
+Book new appointments, 
+View all appointments in table format (JTable), 
+Search appointments by doctor name, 
+Cancel appointments, 
+User-friendly GUI using Java Swing, 
+Data stored persistently using MySQL.
 
 ---
 
