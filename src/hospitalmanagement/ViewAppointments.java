@@ -29,7 +29,7 @@ public class ViewAppointments extends JFrame {
         setVisible(true);
     }
 
-    // 🔹 Load data from database
+    //  Load data from database
     private void loadData() {
         try {
             Connection con = DBConnection.getConnection();
