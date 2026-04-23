@@ -13,7 +13,7 @@ public class ViewAppointments extends JFrame {
         setSize(700, 400);
 
         // Column Names
-        String[] columns = {
+        .tring[] columns = {
             "ID", "Patient Name", "Doctor Name",
             "Department", "Date", "Time"
         };
