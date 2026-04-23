@@ -76,7 +76,7 @@ public class BookAppointment extends JFrame implements ActionListener {
             ps.executeUpdate();
 
             JOptionPane.showMessageDialog(this, "Appointment Booked!");
-         // ✅ Clear all fields
+         //  Clear all fields
             pName.setText("");
             dName.setText("");
             dept.setText("");
